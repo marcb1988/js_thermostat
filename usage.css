@@ -1,0 +1,17 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+.low-usage {
+    color: green;
+  }
+  
+.medium-usage {
+    color: black;
+  }
+  
+.high-usage {
+    color: red;
+  }
